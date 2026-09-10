@@ -1,0 +1,7 @@
+name = "sub-test"
+main = "worker.js"
+compatibility_date = "2026-09-10"
+
+[[kv_namespaces]]
+binding = "DB"
+id = "ec0afdd3e35e437a8c3ab89d32c9e318"
