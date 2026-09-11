@@ -3,7 +3,7 @@ const MAX_USERS = 30;
 const ADMIN_PASSWORD = 'bybachkyl';
 
 const DEFAULT_NAME = '✨ClearQ VPN PRO';
-const DEFAULT_ANNOUNCE = 'PRO Подписка активна. Приятного использования!';
+const DEFAULT_ANNOUNCE = 'PRO Подписка активна.';
 const DEFAULT_SUPPORT = 'https://t.me/ClearQ';
 
 const STYLE = `
